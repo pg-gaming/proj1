@@ -1,0 +1,7 @@
+.pyc
+env
+
+# IDE
+.idea
+.vscode
+.editorconfig
