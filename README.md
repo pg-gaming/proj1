@@ -1,2 +1,3 @@
-# proj1
-first project
+# project 1
+
+First project, simple game for your rest.
